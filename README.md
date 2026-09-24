@@ -1,2 +1,2 @@
 # GIt_Course
-For Elzero Web Gt Course
+For Elzero Web Git Course
